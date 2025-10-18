@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ../git@github.com:anish-maity/iris-dvc-storage-w4-mlops.git
